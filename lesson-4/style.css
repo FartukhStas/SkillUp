@@ -1,0 +1,15 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.relavite{
+    position: relative;
+    left: 100px;
+}
+
+.absolute {
+    position: absolute;
+    left: 100px;
+}

@@ -1,0 +1,16 @@
+p{
+    color: rgb(170, 114, 22);
+font-size: 35px;
+font-style: italic;
+border: 1px solid red;
+}
+
+
+.second-paragraf{
+    color: black;
+}
+
+
+#third-paragraf{
+    color: blue;
+}
